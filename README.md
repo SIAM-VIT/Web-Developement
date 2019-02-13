@@ -31,6 +31,5 @@ Your queries will be solved here. If you have any ideas and answers related to t
 </ul>
 
 <h1>How to use?</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1N4A4UzOTzM" allow="accelerometer; autoplay;></iframe>
 
 [![Watch the video](https://github.com/SIAM-VIT/Web-Developement/blob/master/demo_image.png)](https://www.youtube.com/embed/1N4A4UzOTzM)
