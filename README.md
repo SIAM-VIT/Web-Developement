@@ -10,9 +10,9 @@ Your queries will be solved here. If you have any ideas and answers related to t
 <h1>Why this Repository?</h1>
 <p>In this repository we are going to teach web development. The students attending it will learn about HTML, CSS, JavaScript and much more.Any query just connect just refer to the <a href="https://github.com/HrithikMittal">link</a> and you can create an issue.</p>
 
-<h1><h3>Contents</h3></h1>
+<h1><Contents</h1>
 <ul style="list-style-type:disc">
-  HTML
+  <h3>HTML</h3>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">Your Fist Webpage - Files & Coding Challenge</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">Structure Of A Webpage</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">Creating A Full Webpage - Sample</a></li>
