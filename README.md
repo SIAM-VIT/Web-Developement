@@ -11,7 +11,7 @@ Your queries will be solved here. If you have any ideas and answers related to t
 <p>In this repository we are going to teach web development. The students attending it will learn about HTML, CSS, JavaScript and much more.Any query just connect just refer to the <a href="https://github.com/HrithikMittal">link</a> and you can create an issue.</p>
 
 <h1>Contents</h1>
-<ul>
+<ul style="list-style-type:disc">
   HTML
     <ul>Your Fist Webpage - Files & Coding Challenge</ul>
     <ul>Structure Of A Webpage</ul>
