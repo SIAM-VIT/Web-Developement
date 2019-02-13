@@ -4,7 +4,7 @@
 
 <h1>What is SIAM-VIT?</h1>
 <p>Society for Industrial and Applied Mathematics is an international chapter  which brings Mathematics and Computer Science at the same platform. It conducts events  events related to maths as well as on various other technical topics.<br/>
-Your queries will be solved here. If you have any ideas and answers related to technical questions, you can drop us a  mail at siam@vit.ac.in
+Your queries will be solved here. If you have any ideas and answers related to technical questions, you can drop us a  mail at <a  href="mailto:siam@vit.ac.in" target="_top">siam@vit.ac.in</a>
 </p>
 
 <h1>Why this Repository?</h1>
@@ -29,3 +29,5 @@ Your queries will be solved here. If you have any ideas and answers related to t
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">IFrames</a></a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">Putting All together</a></li>
 </ul>
+
+<h1>How to use?</h1>
