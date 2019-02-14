@@ -46,6 +46,8 @@ Your queries will be solved here. If you have any ideas and answers related to t
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Fonts</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Styling Text</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Aligning Text</a></li>
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Styling Links</a></li>
+  
   </ul>
 
 <h1>How to use?</h1>
