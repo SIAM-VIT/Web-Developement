@@ -38,6 +38,9 @@ Your queries will be solved here. If you have any ideas and answers related to t
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Internal CSS</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Classes and IDs</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Divs</a></li>
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Colors</a></li>
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Floating</a></li>
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Positioning</a></li>
   </ul>
 
 <h1>How to use?</h1>
