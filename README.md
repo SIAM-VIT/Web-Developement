@@ -43,6 +43,7 @@ Your queries will be solved here. If you have any ideas and answers related to t
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Positioning</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Margins</a></li>
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Borders</a></li>
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Fonts</a></li>
   </ul>
 
 <h1>How to use?</h1>
