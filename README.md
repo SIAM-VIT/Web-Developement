@@ -34,7 +34,8 @@ Your queries will be solved here. If you have any ideas and answers related to t
 <ul style="list-style-type:disc">
   
   <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Introduction to CSS 3</a></li>
-  
+  <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Inline CSS</a></li>
+  <a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/CSS">Internal CSS</a>
   </ul>
 
 <h1>How to use?</h1>
