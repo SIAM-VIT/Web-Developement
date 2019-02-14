@@ -30,6 +30,10 @@ Your queries will be solved here. If you have any ideas and answers related to t
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/HTML">Putting All together</a></li>
 </ul>
 
+<h3>CSS</h3>
+<ul style="list-style-type:disc">
+  </ul>
+
 <h1>How to use?</h1>
 
 [![Watch the video](https://github.com/SIAM-VIT/Web-Developement/blob/master/demo_image.png)](https://www.youtube.com/embed/1N4A4UzOTzM)
