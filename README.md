@@ -50,6 +50,26 @@ Your queries will be solved here. If you have any ideas and answers related to t
   
   </ul>
 
+  <h3>JavaScript</h3>
+<ul style="list-style-type:disc">
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">What is JavaScript?</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Internal Javascript - Files</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Accessing Elements</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Response To a Click</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Changing Website Content</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Manipulating Styles with Javascript</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js"Mini Challenge</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Variables</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Arrays</a></li>
+  
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Forms</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Tables</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Links</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">HTML Entities</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">IFrames</a></a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Putting All together</a></li>
+</ul>
+
 <h1>How to use?</h1>
 
 [![Watch the video](https://github.com/SIAM-VIT/Web-Developement/blob/master/demo_image.png)](https://www.youtube.com/embed/1N4A4UzOTzM)
