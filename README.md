@@ -58,7 +58,7 @@ Your queries will be solved here. If you have any ideas and answers related to t
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Response To a Click</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Changing Website Content</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Manipulating Styles with Javascript</a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js"Mini Challenge</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Mini Challenge</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Variables</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Arrays</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">If Statements</a></li>
