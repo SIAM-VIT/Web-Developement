@@ -61,13 +61,12 @@ Your queries will be solved here. If you have any ideas and answers related to t
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js"Mini Challenge</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Variables</a></li>
     <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Arrays</a></li>
-  
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Forms</a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Tables</a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Links</a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">HTML Entities</a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">IFrames</a></a></li>
-    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Putting All together</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">If Statements</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">JavaScript Game</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Loops</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">While Loops</a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">Functions</a></a></li>
+    <li><a href="https://github.com/SIAM-VIT/Web-Developement/tree/master/Js">JavaScript Project</a></li>
 </ul>
 
 <h1>How to use?</h1>
